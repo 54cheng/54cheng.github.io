@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 domain: 54cheng.github.io
 # Build settings
-theme: dinky
+theme: minima
 plugins:
   - jekyll-feed
 
