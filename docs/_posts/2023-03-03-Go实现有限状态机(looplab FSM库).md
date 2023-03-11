@@ -1,3 +1,6 @@
+---
+category: GO
+---
 ## 简介
 有限状态机（Finite-state machine，简写：FSM）又可以称作有限状态自动机，简称状态机。
 
